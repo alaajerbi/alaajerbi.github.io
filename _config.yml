@@ -1,7 +1,7 @@
 # Site settings
 title: Alaa Jerbi
 email: iamalaajerbi@gmail.com
-url: http://alaajerbi.com
+url: https://alaajerbi.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 skills: "Web/Mobile Developer - UI/UX Designer"
@@ -25,8 +25,8 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: ffa854 #80B3FF
-  primary-rgb: "255,168,84" #"128,179,255"
+  primary: ff6427 #80B3FF
+  primary-rgb: "255,255,39" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
