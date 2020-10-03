@@ -64,7 +64,7 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #{{ site.color.primary }};
+    background-color: #01bcae;
 }
 
 hr.star-primary {
@@ -83,8 +83,14 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #{{ site.color.primary }};
+    /* background-image: linear-gradient(#{{ site.color.primary }}, #{{ site.color.gradient-color }}); */
+	background: #02AAB0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #{{site.color.primary}}, #{{site.color.gradient}});  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #{{site.color.primary}}, #{{site.color.gradient}}); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
 }
+
 
 header .container {
     padding-top: 100px;
@@ -182,7 +188,13 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #{{ site.color.primary }};
+    background: #02AAB0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #{{site.color.primary}}, #{{site.color.gradient}});  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #{{site.color.primary}}, #{{site.color.gradient}}); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.modal-body .content {
+    text-align: left;
 }
 
 @media(max-width:767px) {
