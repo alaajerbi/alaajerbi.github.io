@@ -6,8 +6,14 @@ img: dare-u.png
 alt: image-alt
 project-date: August 2020
 title: Dare U
-client: Private
-category: UI Design
+client: (Private)
+category: UI/UX Design
 description: Dare U is a mobile app that allows users to create and participate in challenges all over the world.
 ---
+
+**LOW FIDELITY WIREFRAMES TOOL:**
+- Balsamiq Mockups
+
+**HIGH FIDELITY WIREFRAMES TOOL:**
+- Figma
 

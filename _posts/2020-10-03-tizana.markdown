@@ -8,7 +8,18 @@ project-date: March - August 2020
 title: Tizana
 client: PynToPyn Technologies
 client-link: https://pyntopyn.com/
-category: Mobile Development
+category: Mobile Design + Development
 description: Tizana is a food scanning mobile app that allows users to scan food products and get their nutritional values and compare them to other products in the same category.
 ---
+
+**DESIGN TOOLS:**
+- InVision Studio
+
+**DEV TOOLS:** 
+- React Native
+- React Hooks & Context
+- Expo kit
+- ES6
+- Git
+
 
