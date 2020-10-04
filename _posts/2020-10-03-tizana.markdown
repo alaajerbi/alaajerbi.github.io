@@ -19,7 +19,7 @@ description: Tizana is a food scanning mobile app that allows users to scan food
 - React Native
 - React Hooks & Context
 - Expo kit
-- ES6
+- Javascript/ES6
 - Git
 
 

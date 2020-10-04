@@ -12,10 +12,10 @@ category: Mobile Design
 description: TLibra is an e-wallet mobile app that allows Tunisian users to send and receive money and pay bills, all from one single place!
 ---
 
-**DESIGN TOOLS:**
-- Adobe XD
+**LOW FIDELITY WIREFRAMING TOOLS:**
+- N/A
 
-**DEV TOOLS:** 
-No development
+**HIGH FIDELITY WIREFRAMING TOOLS** 
+- Adobe XD
 
 
