@@ -123,7 +123,7 @@ header .intro-text .skills {
     font-weight: 300;
 }
 
-header .btn-header:hover {
+header .btn-header:hover, header .btn-header:active, header .btn-header:focus {
     background-color: #{{ site.color.primary}};
     color: white;
     border-color: #{{ site.color.primary}};
