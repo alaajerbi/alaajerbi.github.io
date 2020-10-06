@@ -12,10 +12,10 @@ category: Mobile Design + Development
 description: Tizana is a food scanning mobile app that allows users to scan food products,get their nutritional values, and compare them to other products in the same category.
 ---
 
-**DESIGN TOOLS:**
+**DESIGN TOOLS**
 - InVision Studio
 
-**DEV TOOLS:** 
+**TECHNOLOGIES** 
 - React Native
 - React Hooks & Context
 - Expo kit

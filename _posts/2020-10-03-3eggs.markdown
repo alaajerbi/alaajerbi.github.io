@@ -12,7 +12,7 @@ category: Web Development
 description: 3eggs is a Saudi fast food restaurant. They hired me to translate their new design into a fully-fledged multi language Single Page Application.
 ---
 
-**DEV TOOLS**:
+**TECHNOLOGIES**:
 - HTML5 & CSS3
 - ReactJS
 - Javascript

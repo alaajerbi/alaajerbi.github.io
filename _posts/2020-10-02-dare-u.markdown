@@ -11,9 +11,7 @@ category: Mobile Design
 description: Dare U is a mobile app that allows users to create and participate in challenges all over the world.
 ---
 
-**LOW FIDELITY WIREFRAMES TOOL:**
+**TOOLS**
 - Balsamiq Mockups
-
-**HIGH FIDELITY WIREFRAMES TOOL:**
 - Figma
 
