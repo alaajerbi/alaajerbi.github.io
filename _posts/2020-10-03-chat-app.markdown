@@ -15,14 +15,18 @@ description: A chat app that allows you to create private chat rooms and chat fo
 Try the app [here](https://alaajerbi.com/chatrooms) or check the [Github repository](https://github.com/alaajerbi/chatrooms)
 
 
-**TECHNOLOGIES** 
-*Front-end*
+**TECHNOLOGIES**
+ 
+*Front-end:*
+
 - ReactJS
 - HTML & CSS
+
 *Backend*
 - Express
 - NodeJS
 - Socket.io
+
 *Deployment*
 - Heroku
 - Github pages
