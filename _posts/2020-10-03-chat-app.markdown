@@ -1,0 +1,29 @@
+---
+layout: default
+modal-id: 6
+date: 2020-10-11
+img: chat-app.png
+alt: image-alt
+project-date: October 2020
+title: TLibra
+client: Personal project
+client-link: https://alaajerbi.com
+category: Web Development
+description: A chat app that allows you to create private chat rooms and chat for a limited amount of time before it gets destroyed.
+---
+
+Try the app [here](https://alaajerbi.com/chatrooms) or check the [Github repository](https://github.com/alaajerbi/chatrooms)
+
+
+**TECHNOLOGIES** 
+*Front-end*
+- ReactJS
+- HTML & CSS
+*Backend*
+- Express
+- NodeJS
+- Socket.io
+*Deployment*
+- Heroku
+- Github pages
+
