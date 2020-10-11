@@ -289,6 +289,10 @@ background: linear-gradient(to right, #{{site.color.primary}}, #{{site.color.gra
     z-index: 2;
 }
 
+.project-name {
+	color: white;
+}
+
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
