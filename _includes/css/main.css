@@ -291,6 +291,8 @@ background: linear-gradient(to right, #{{site.color.primary}}, #{{site.color.gra
 
 .project-name {
 	color: white;
+	font-size: 20px;
+	font-weight: bold;
 }
 
 @media(min-width:767px) {
