@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 2
+date: 2020-10-03
+img: dare-u.png
+alt: image-alt
+project-date: August 2020
+title: Dare U
+client: (Private)
+category: Mobile Design
+description: Dare U is a mobile app that allows users to create and participate in challenges all over the world.
+---
+
+**TOOLS**
+- Balsamiq Mockups
+- Figma
+
