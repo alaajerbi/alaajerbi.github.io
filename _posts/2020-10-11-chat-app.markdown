@@ -12,14 +12,13 @@ category: Web Development
 description: A chat app that allows you to create private chat rooms that gets destroyed after a certain amount of time.
 ---
 
-# Chat App with Time Limit
-
 A chat app that allows you to create private chat rooms that gets destroyed after a certain amount of time.
 Built with ReactJS, NodeJS, Express, and Socket.io.
 
-Try the app [here](https://alaajerbi.com/chatrooms) or check the [Github repository](https://github.com/alaajerbi/chatrooms).
+### Try the app [here](https://alaajerbi.com/chatrooms) or check the [Github repository](https://github.com/alaajerbi/chatrooms).  
 
-## How it works?
+
+#### How it works?
 
 When you click on the create chatroom button, the node server (deployed on a Heroku dyno instance) creates a room instance with a unique ID, adds it to the queue of all the other pending rooms, and sends it back to the client. Once two people join the room by navigating to the room link, a socket connection from the two clients to the server gets established, the room becomes "active" and the countdown timer starts ticking and the chat functionality is enabled. Once the time is up, the room gets automatically destroyed.
 
@@ -28,7 +27,7 @@ You can create more than one room and start them simultaneously, each will have 
 If you leave the chat room while it is still active or you refresh the page, the socket connection will be lost and the room will be destroyed. 
 
 
-**TECHNOLOGIES**
+#### TECHNOLOGIES:
  
 *Front-end:*
 
