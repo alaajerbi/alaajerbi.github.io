@@ -1,0 +1,20 @@
+---
+layout: default
+modal-id: 1
+date: 2020-10-04
+img: tlibra.png
+alt: image-alt
+project-date: July 2019
+title: TLibra
+client: Tledger
+client-link: https://tledger.tech/
+category: Mobile Design
+description: TLibra is an e-wallet mobile app that allows Tunisian users to send and receive money and pay bills, all from one single place!
+---
+
+
+**DESIGN TOOLS** 
+- Adobe XD
+- Zeplin
+
+
