@@ -295,6 +295,26 @@ background: linear-gradient(to right, #{{site.color.primary}}, #{{site.color.gra
 	font-weight: bold;
 }
 
+#highlighted {
+
+}
+
+#highlighted span {
+	background-color: #ffcd00;
+	color: #222;
+	padding: 2px 2px;
+	border-radius: 5px;
+}
+
+#highlighted a {
+	color: #222;
+	border-bottom: 1px dotted #222; 
+}
+
+#highlighted a:hover, #highlighted a:focus, #highlighted a:active {
+	border-bottom: 1px solid #222; 
+}
+
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
