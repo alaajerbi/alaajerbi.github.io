@@ -53,7 +53,8 @@ address:
   - line: Ben Arous, Tunisia 2063
 
 # Credits content
-credits: 'This website was generated with <a href="https://jekyllrb.com">Jekyll</a> and hosted on <a href="https://github.com/alaajerbi/alaajerbi.github.io">Github pages</a>. Theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a> and customized by me.'
+credits: 'This website was generated with <a href="https://jekyllrb.com">Jekyll</a> and hosted on <a href="https://github.com/alaajerbi/alaajerbi.github.io">Github</a>. Theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a> and customized by myself
+.'
 
 # Build settings
 markdown: kramdown
