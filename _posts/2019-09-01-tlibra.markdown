@@ -13,8 +13,16 @@ description: TLibra is an e-wallet mobile app that allows Tunisian users to send
 ---
 ### You can find the app on [Google Play](https://play.google.com/store/apps/details?id=com.tledger.tlibra) or in the [App Store](https://apps.apple.com/tm/app/tlibra/id1478393723).
 
-**DESIGN TOOLS** 
-- Adobe XD
-- Zeplin
+### Activities
+
+* Designed mockups for an e-wallet mobile application using Adobe XD
+
+* Converted design to HTML and CSS components
+
+### Technologies
+
+* Adobe XD
+
+* Zeplin
 
 

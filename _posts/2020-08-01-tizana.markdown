@@ -14,8 +14,7 @@ description: Tizana is a food scanning mobile app that allows users to scan food
 
 ### Activities
 
-* Developed a mobile application using React Native and Expo SDK to scan food products barcode and get their
-nutritional values and labels
+* Developed a mobile application using React Native and Expo SDK to scan food products barcode and get their nutritional values and labels
 
 * Implemented Google OAuth for user authentication
 
@@ -25,13 +24,20 @@ nutritional values and labels
 
 ### Technology
 
-- React Native
-- React Hooks & Context
-- Expo SDK
-- Javascript
-- Google 0Auth API
-- Git
-- Gitlab
-- InVision Studio
+* React Native
+
+* React Context (for state management)
+
+* Expo SDK
+
+* Javascript
+
+* Google 0Auth API
+
+* Git
+
+* Gitlab
+
+* InVision Studio
 
 
