@@ -10,19 +10,31 @@ client: PynToPyn Technologies
 client-link: https://pyntopyn.com/
 category: Mobile Design + Development
 description: Tizana is a food scanning mobile app that allows users to scan food products,get their nutritional values, and compare them to other products in the same category.
+carousel-images: ['tizana-1.png', 'tizana-2.png', 'tizana-3.png', 'tizana-4.png']
 ---
 
-### Activities
+**STATUS:** UNDER DEVELOPMENT
+
+### Done
 
 * Developed a mobile application using React Native and Expo SDK to scan food products barcode and get their nutritional values and labels
 
 * Implemented Google OAuth for user authentication
 
+* Implemented offline storage for scan history with Async Storage
+
 * Fixed responsiveness issues by creating custom auto-scaling components
 
 * Designed the application mockups with InVision Studio
 
-### Technology
+### TODO
+
+* Integrate food additives information
+
+* Finish testing
+
+
+### Technology Stack
 
 * React Native
 
