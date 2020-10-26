@@ -23,7 +23,8 @@
                         <ul class="list-inline item-details">
                             {% if post.client %}
                             <li>Client:
-                                <strong><a {% if post.client-link %} href={{post.client-link}} {% else %} href="#" {% endif %}>{{ post.client }}</a>
+                                <strong><a {% if post.client-link %} href={{post.client-link}} {% else %} href="#"
+                                        {% endif %}>{{ post.client }}</a>
                                 </strong>
                             </li>
                             {% endif %}
@@ -40,11 +41,16 @@
                             </li>
                             {% endif %}
                         </ul>
-			<hr />
+                        <hr />
                         <div class="content">
                             {{ post.content }}
                         </div>
-    
+
+                        {% if post.carousel-images %}
+                        <h3 style="margin-top: 20px; margin-bottom: 20px;">Gallery</h3>
+                        {% include carousel.html %}
+                        {% endif %}
+
                     </div>
                 </div>
             </div>

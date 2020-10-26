@@ -1,0 +1,30 @@
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+        {% for image in post.carousel-images %}
+        <li data-target="#myCarousel" data-slide-to="{{forloop.index0}}" {% if forloop.index0 == 0 %} class="active"
+            {% endif %}></li>
+        {% endfor %}
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+
+        {% for image in post.carousel-images %}
+        <div class="item {% if forloop.index0 == 0 %} active {% endif %}">
+            <img src="img/portfolio/{{ image }}">
+        </div>
+        {% endfor %}
+
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+        <i class="fa fa-chevron-left" style="font-size: 30px;"></i>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+        <i class="fa fa-chevron-right" style="font-size: 30px;"></i>
+        <span class="sr-only">Next</span>
+    </a>
+</div>

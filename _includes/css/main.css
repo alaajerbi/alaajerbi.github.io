@@ -444,6 +444,20 @@ footer .footer-below {
     background-color: #{{ site.color.secondary-dark }};
 }
 
+.carousel-control {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.carousel-indicators li {
+    border-color: #444;
+}
+
+.carousel-indicators .active {
+    background-color: #444;
+}
+
 .btn-social {
     display: inline-block;
     width: 50px;
