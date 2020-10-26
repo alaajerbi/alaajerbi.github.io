@@ -450,6 +450,7 @@ footer .footer-below {
     justify-content: center;
 }
 
+
 .carousel-indicators li {
     border-color: #444;
 }
@@ -513,7 +514,7 @@ footer .footer-below {
 }
 
 .portfolio-modal .modal-content img {
-    margin-bottom: 30px;
+    margin-bottom: 0
 }
 
 .portfolio-modal .modal-content .item-details {
