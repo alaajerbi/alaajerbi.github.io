@@ -10,11 +10,15 @@ client: 3eggs
 client-link: https://www.3eggs.com.sa/
 category: Web Development
 description: 3eggs is a Saudi fast food restaurant. They hired me to translate their new design into a fully-fledged multi language Single Page Application.
+carousel-images: ['3eggs-1.png', '3eggs-2.png', '3eggs-3.png']
 ---
 
-**TECHNOLOGIES**:
-- HTML5 & CSS3
-- ReactJS
-- Javascript
+### TECHNOLOGY STACK:
+
+* HTML5 & CSS3
+
+* ReactJS
+
+* Javascript
 
 

@@ -9,6 +9,7 @@ title: Dare U
 client: (Private)
 category: Mobile Design
 description: Dare U is a mobile app that allows users to create and participate in challenges all over the world.
+carousel-images: ['dare-u-1.png', 'dare-u-2.png', 'dare-u-3.png', 'dare-u-4.png']
 ---
 
 **TOOLS**
