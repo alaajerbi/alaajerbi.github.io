@@ -33,6 +33,7 @@ carousel-images: ['tizana-1.png', 'tizana-2.png', 'tizana-3.png', 'tizana-4.png'
 
 * Finish testing
 
+* Deploy app on Google Play/App Store
 
 ### Technology Stack
 
