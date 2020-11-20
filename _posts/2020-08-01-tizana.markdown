@@ -15,6 +15,15 @@ carousel-images: ['tizana-1.png', 'tizana-2.png', 'tizana-3.png', 'tizana-4.png'
 
 **STATUS:** UNDER DEVELOPMENT
 
+### CONCEPT
+People has become more health conscious than ever before in human history. With the abundance of food products in the market each claiming to be the healthiest alternative your money can buy, it has become a challenge to find quality products that live up to the claim.
+
+Going through each product and jotting down their nutritional tables and information is not an easy nor a fun task, and not everyone has the time of the day for it. Besides, comparing the tables to find the right product is a living hell to say the least. 
+
+With Tizana, we've decided to spare you the time and effort. All you have to do is scan a food product with the barcode and you get its nutritional values right away! Not only that, but the app looks for other alternatives in the same food category and brings you better suggestions based on their [Nutri-score](https://en.wikipedia.org/wiki/Nutri-score).
+
+
+
 ### Done
 
 * Developed a mobile application using React Native and Expo SDK to scan food products barcode and get their nutritional values and labels
