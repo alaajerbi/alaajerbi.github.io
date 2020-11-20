@@ -34,9 +34,13 @@ With Tizana, we've decided to spare you the time and effort. All you have to do 
 
 * Google 0Auth API
 
+* MongoDB
+
+* NodeJS
+
 * Git
 
-* Gitlab
+* Gitlab (VSC, CI/CD pipelines)
 
 * InVision Studio
 
