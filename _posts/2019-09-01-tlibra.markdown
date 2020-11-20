@@ -15,7 +15,9 @@ description: TLibra is an e-wallet mobile app that allows Tunisian users to send
 
 ### Activities
 
-* Designed mockups for an e-wallet mobile application using Adobe XD
+* Designed mockups for the mobile app using Adobe XD
+
+* Applied UI Design principles to improve app usability and user experience
 
 * Converted design to HTML and CSS components
 
@@ -24,5 +26,7 @@ description: TLibra is an e-wallet mobile app that allows Tunisian users to send
 * Adobe XD
 
 * Zeplin
+
+* HTML5 & CSS3
 
 
