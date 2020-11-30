@@ -14,20 +14,22 @@ carousel-images: ['tlibra-1.png', 'tlibra-2.png', 'tlibra-3.png', 'tlibra-4.png'
 ---
 ### You can find the app on [Google Play](https://play.google.com/store/apps/details?id=com.tledger.tlibra) or in the [App Store](https://apps.apple.com/tm/app/tlibra/id1478393723).
 
-### Activities
-
-* Designed mockups for the mobile app using Adobe XD
-
-* Applied UI Design principles to improve app usability and user experience
-
-* Converted design to HTML and CSS components
-
-### Technologies
+### TECHNOLOGIES 👨‍💻
 
 * Adobe XD
 
 * Zeplin
 
 * HTML5 & CSS3
+
+### Done ☑️
+
+* Designed mockups for the mobile app using Adobe XD 
+
+* Applied UI Design principles to improve app usability and user experience 
+
+* Converted design to HTML and CSS components 
+
+
 
 

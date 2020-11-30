@@ -14,18 +14,28 @@ description: Hacker News Clone is a clone of the famous IT news website built wi
 
 ### Try the app [here](https://alaajerbi.com/hackernews-clone) or check the [Github repository](https://github.com/alaajerbi/hackernews-clone).  
 
-#### TECHNOLOGIES:
- 
+### TECHNOLOGIES 👨‍💻
+
 *Front-end:*
 
-- ReactJS
-- HTML & CSS
-- ReactJS
+* ReactJS
+* HTML & CSS
+* ReactJS
 
 *Backend:*
-- Hacker News Algolia API
+
+* Hacker News Algolia API
 
 *Deployment:*
+
 - Github pages
 
+### Done ☑️
 
+- Built the frontend with React
+
+- Implemented search functionality with highlighted search keywords on result pages
+
+- Implemented pagination
+
+- Deployed the application on Github pages

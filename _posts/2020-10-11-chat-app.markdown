@@ -27,7 +27,7 @@ You can create more than one room and start them simultaneously, each will have 
 If you leave the chat room while it is still active or you refresh the page, the socket connection will be lost and the room will be destroyed. 
 
 
-#### TECHNOLOGIES:
+### TECHNOLOGIES 👨‍💻
  
 *Front-end:*
 

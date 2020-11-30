@@ -13,12 +13,21 @@ description: 3eggs is a Saudi fast food restaurant. They hired me to translate t
 carousel-images: ['3eggs-1.png', '3eggs-2.png', '3eggs-3.png']
 ---
 
-### TECHNOLOGY STACK:
+### TECHNOLOGIES 👨‍💻
 
 * HTML5 & CSS3
 
 * ReactJS
 
 * Javascript
+
+
+### Done ☑️
+
+- Converted design from Adobe XD to HTML/CSS
+
+- Built Single Page Application with ReactJS
+
+- Add Multi-language support to React app
 
 

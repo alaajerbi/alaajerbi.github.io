@@ -22,7 +22,7 @@ Going through each product and jotting down their nutritional tables and informa
 
 With Tizana, we've decided to spare you the time and effort. All you have to do is scan a food product with the barcode and you get its nutritional values right away! Not only that, but the app looks for other alternatives in the same food category and brings you better suggestions based on their [Nutri-score](https://en.wikipedia.org/wiki/Nutri-score).
 
-### Technology Stack
+### TECHNOLOGIES 👨‍💻
 
 * React Native
 
@@ -45,20 +45,20 @@ With Tizana, we've decided to spare you the time and effort. All you have to do 
 * InVision Studio
 
 
-### Done
+### Done ☑️
 
 
-* Designed the application mockups with InVision Studio
+- Designed the application mockups with InVision Studio 
 
-* Built the mobile application with React Native and Expo SDK
+- Built the mobile application with React Native and Expo SDK 
 
-* Implemented Google OAuth for user authentication
+- Implemented Google OAuth for user authentication 
 
-* Implemented offline storage for scan history with Async Storage
+- Implemented offline storage for scan history with Async Storage 
 
-* Fixed responsiveness issues by creating custom auto-scaling components
-
-### TODO
+- Fixed responsiveness issues by creating custom auto-scaling components 
+ 
+### TODO 🔨
 
 * Integrate food additives information
 
