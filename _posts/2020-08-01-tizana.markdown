@@ -16,7 +16,7 @@ carousel-images: ['tizana-1.png', 'tizana-2.png', 'tizana-3.png', 'tizana-4.png'
 **STATUS:** UNDER DEVELOPMENT
 
 ### CONCEPT
-People has become more health conscious than ever before. With the abundance of food products in the market each claiming to be the healthiest alternative your money can buy, it has become a challenge to find quality products that live up to the claim.
+People are becoming more health conscious than ever before. With the abundance of food products in the market each claiming to be the healthiest alternative your money can buy, it has become a challenge to find quality products that live up to the claim.
 
 Going through each product and jotting down their nutritional tables and information is not an easy nor a fun task, and not everyone has the time of the day for it. Besides, comparing the tables to find the right product is a living hell to say the least. 
 
