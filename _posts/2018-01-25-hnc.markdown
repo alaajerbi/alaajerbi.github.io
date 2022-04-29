@@ -12,7 +12,7 @@ category: Web Development
 description: Hacker News Clone is a clone of the famous IT news website built with ReactJS. With highlighted search keywords and pagination.
 ---
 
-### Try the app [here](https://alaajerbi.com/hackernews-clone) or check the [Github repository](https://github.com/alaajerbi/hackernews-clone).  
+### Try the app [here](https://alaajerbi.dev/hackernews-clone) or check the [Github repository](https://github.com/alaajerbi/hackernews-clone).  
 
 ### TECHNOLOGIES 👨‍💻
 
